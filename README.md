@@ -7,7 +7,16 @@
 - 💬 Ask me about HTML
 - 📫 How to reach me: vinoliamoekwa@gmail.com
 - 😄 Pronouns: her/She 
-- ⚡ Fun fact: ...I am good at learning new languages, not just tech languages 
+- ⚡ Fun fact: ...I am good at learning new languages, not just tech languages
+
+## 💼 Work & Projects
+
+### [Client Website](https://yourwebsite.com) 🌐
+- Built with **HTML, CSS, JavaScript**
+- Integrated **WhatsApp API** for direct messaging
+- **Deployed on GitHub Pages** (built and tested on Render during development)
+- Focused on **aesthetic, clean, user-friendly design**
+
 
 ## 🖥️ Tech Stack
 
