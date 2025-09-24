@@ -32,6 +32,9 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=rest)
 
+## 📊 GitHub Stats
+
+![Vinolia's GitHub stats](https://github-readme-stats.vercel.app/api?username=VinoliaMoekwa&show_icons=true&theme=radical)
 
   
 
