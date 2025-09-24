@@ -21,6 +21,8 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/NoSQL-005571?style=for-the-badge&logo=nosql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=rest)
+
 
   
 
