@@ -11,7 +11,7 @@
 
 ## 💼 Work & Projects
 
-### [Felicia Bakes](https:/feliciabakes.co.za 🌐
+### Felicia Bakes(https://feliciabakes.co.za)🌐
 - Built with **HTML, CSS, JavaScript**
 - Integrated **WhatsApp API** for direct messaging
 - **Deployed on GitHub Pages** (built and tested on Render during development)
